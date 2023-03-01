@@ -1,0 +1,15 @@
+.cardT {
+  width: 225px;
+  height: 300px;
+  border-radius: 30px;
+  padding: 0px;
+  margin: 30px;
+  background: #212121;
+  box-shadow: 7px 7px 20px rgba(124, 58, 237, 0.803),
+    -7px -7px 20px rgba(124, 58, 237, 0.774);
+}
+
+.img {
+  height: 30vh;
+  width: 17vw;
+}
